@@ -1,0 +1,139 @@
+WinDOS v3.0
+New project name is WinDOS instead of MS-DOS!
+The entire code has been rewritten!
+
+
+---------------------------------------
+
+	New bootloader:
+		
+		BootSource hierarchy: Registry > .ini file > Basic(Creates registry/.ini boot source depending on execution level)
+		
+---------------------------------------
+
+	DISC ENGINE:
+	
+		Responsible for applying startup config, recognizing and executing commands and error handling
+		
+---------------------------------------
+
+	Command system rework:
+	
+		- New command: EMULATION; its arguments are either 0(starts Windows Explorer) or 1(kills Windows Explorer)
+	
+		- New command: STARTUP-EMULATION; its arguments are either 0(starts Windows Explorer at startup) or 1(kills Windows Explorer at startup)
+	
+	
+		- COPYDIR/COPYFILE and MOVEDIR/MOVEFILE commands are merged to COPY and MOVE
+
+		- All HASHCRACK commands are merged. New argument added: HashType
+		
+		- All MH commands are merged. New argument added: HashType
+		
+		
+		- DISPLAYMODE coomand has been replaced by FULLSCREEN, its arguments are either 0(windowed) or 1(fullscreen)
+		
+		- SAVECURRENTCONFIG command replaced by COPY-CURRENT-CONFIG its arguments are either INI or REGISTRY
+		
+		- STARTUPDISPLAY command replaced by STARTUP-FULLSCREEN its aruments are either 0(windowed) or 1(fullscreen)
+		
+		- SHMOTD command's arguments(y/n) replaced by 0(n) and 1(y)
+		
+		
+		- DRIVERINFO and DRIVERCHECK commands renamed to DRIVER-INFO and DRIVER-CHECK
+		
+		- ERASESTARTUPFILE command renamed to ERASE-INI-CONFIG
+		
+		- ERASESTARTUPREG command renamed to ERASE-REGISTRY-CONFIG
+		
+		- STARTUPDIR command renamed to STARTUP-DIR
+		
+		- STARTUPFCOLOR command renamed to STARTUP-FCOLOR
+		
+		- STARTUPBCOLOR command renamed to STARTUP-BCOLOR
+		
+		- STARTUPFONT command renamed to STARTUP-FONT
+		
+		- STARTUPCONFIG command renamed to STARTUP-CONFIG
+		
+		
+		- Removed command: FLICKERKILL. Press enter to display momentary process state.
+		
+		- Removed command: COPYSTARTUPTOREG
+		
+		- Removed command: STARTUPFLCKILL. Press enter to display momentary process state
+		
+		- Removed command: MEMLOC
+		
+---------------------------------------
+
+	Auto complete rework:
+	
+		- Created search pools: startup-; driver-; erase-
+		
+		- Increased auto complete accuracy
+		
+---------------------------------------
+
+	Misc:
+	
+		- SETFONT and STARTUP-FONT argument "default" for default font family has been replaced by "CP437"
+		
+		- Fixed: Text can be selected by double-clicking.
+		
+		- Fixed: The first line is empty after auto complete event occurs
+		
+		- Fixed: The input field reaches maximum text length
+		
+============================================================================================================================================
+
+WinDOS v3.1
+Added registry editor, minor changes/fixes.
+
+
+---------------------------------------
+
+	- New command: regedit; while in "regedit" mode, type help for regedit commands
+	
+	- Regedit commands:
+		
+		- CSK               Changes the current subkey
+		
+		- SK-GET            Returns a subkey name list of a specified subkey
+
+		- SK-MAKE			Creates a new subkey inside a specified subkey
+		
+		- SK-DELETE			Deletes the specified subkey and its subkey tree
+		
+		- VAL-GET			Returns all registry values of a specfied subkey
+
+		- VAL-SET 			Modifies an existing value in the current subkey
+
+		- VAL-MAKE			Creates a new value in the current subkey
+
+		- VAL-DELETE		Deletes the specified value
+
+		- VAL-RENAME		Renames the specified value
+
+		- CLS				Clears the screen
+		
+		- EXIT				Returns to "default" mode
+
+	
+	- Created auto complete search pools: sk-; val-
+
+	
+	- SHMOTD command renamed to STARTUP-SHMOTD
+		
+	- MOTD command renamed to STARTUP-MOTD
+	
+	
+	- Fixed: Unable to scroll input field
+	
+	- Fixed: Default icon appears on taskbar
+	
+	- Fixed: Input field is inaccessible after startup
+	
+	- Fixed: Highly inaccurate help text in "regedit" mode
+	
+============================================================================================================================================
