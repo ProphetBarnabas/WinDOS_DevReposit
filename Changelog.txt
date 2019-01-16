@@ -93,7 +93,7 @@ Added registry editor, minor changes/fixes.
 
 ---------------------------------------
 
-	- New command: regedit; while in "regedit" mode, type help for regedit commands
+	- New command: REGEDIT; while in "regedit" mode, type help for regedit commands
 	
 	- Regedit commands:
 		
@@ -137,3 +137,44 @@ Added registry editor, minor changes/fixes.
 	- Fixed: Highly inaccurate help text in "regedit" mode
 	
 ============================================================================================================================================
+
+WinDOS v3.2
+Fixed issues, new commands, minor modifications
+
+
+---------------------------------------
+
+	- New command: PING; Attempts to ping the specified hostname or ip address; it accepts -t(endless ping) as an optional argument
+
+	- New command: STARTUP-VERBOSE; Shows or skips the loading screen at startup; its arguments are either 0(off) or 1(on)
+	
+	- Bootloader rework:
+		
+		- Booting from BOOT.ini is now more stable and reliable
+		
+		- Boot source hierachy is more consistent, Basic boot source's only purpose is to create Registry/INI boot sources
+		
+		- BOOT.ini stores startup config in a different form
+
+	- Fixes:
+	
+		- Unhandled exception when auto complete is triggered but user input is not present
+		
+		- If emulation is turned on when closing the application, explorer.exe does not restart
+		
+		- Auto complete does not apply for HELP and EXIT commands in "regedit" mode
+
+		- DIR command accepts only full directory path
+		
+		- Help text inaccuracies
+	
+	- Misc:
+	
+		- Text length limit is set to 800.000 characters when using FC and OPEN commands 
+		  (temporary solution to permanent unresponsiveness when displaying too much text)
+		 
+		- MD and MF commands now accepts full path as well as directory/file names
+		
+		- Modified nmap output format
+		
+============================================================================================================================================			
