@@ -1,0 +1,13 @@
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\bin\Debug\WinDOS.exe.config
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\bin\Debug\WinDOS.exe
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\bin\Debug\WinDOS.pdb
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\obj\Debug\WinDOS.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\obj\Debug\WinDOS.Properties.Resources.resources
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\obj\Debug\WinDOS.csproj.GenerateResource.cache
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\obj\Debug\WinDOS.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\obj\Debug\WinDOS.exe
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\obj\Debug\WinDOS.pdb
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\bin\Debug\ToolShed.dll
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\obj\Debug\WinDOS.MainForm.resources
+C:\Users\ProphetBarnabas\source\repos\WinDOS\WinDOS\obj\Debug\WinDOS.csproj.CopyComplete

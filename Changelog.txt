@@ -1,6 +1,7 @@
 WinDOS v3.0
+CLIShell version: v1.0
 New project name is WinDOS instead of MS-DOS!
-The entire code has been rewritten!
+Full code rewrite!
 
 
 ---------------------------------------
@@ -88,6 +89,7 @@ The entire code has been rewritten!
 ============================================================================================================================================
 
 WinDOS v3.1
+CLIShell version: v1.0
 Added registry editor, minor changes/fixes.
 
 
@@ -139,6 +141,7 @@ Added registry editor, minor changes/fixes.
 ============================================================================================================================================
 
 WinDOS v3.2
+CLIShell version: v1.0
 Fixed issues, new commands, minor modifications
 
 
@@ -177,4 +180,257 @@ Fixed issues, new commands, minor modifications
 		
 		- Modified nmap output format
 		
-============================================================================================================================================			
+============================================================================================================================================
+
+WinDOS v3.2
+CLIShell version: v1.1
+New commands, basic interpreter, optimization, visual upgrade, command system rework, text engine, fixes.
+
+---------------------------------------
+
+	NEW SYSTEM COMPONENTS
+	
+		- Basic interpreter by CLIShell v1.1: 
+		
+			- Replaces obsolete Disc Engine
+			
+			- Allows filter argument by glob patterns:
+
+				- Glob characters: 
+				
+					""(double quote):    no matter what is between double quotes, it is interpreted as one argument, also all glob patterns are ineffective
+					
+					*(asterisk):         *filter means anything that ends with 'filter'; filter* means anything that starts with 'filter' (cannot be both)
+					
+					!(exclamation mark): !filter means anythig that does not equal to 'filter'
+					
+					All possible glob patterns('filter' is an example text): "filter", !"filter", !*"filter", !"filter"*, *"filter", "filter"*, 
+																			 !filter, !*filter, !filter*, *filter, filter*
+		
+		- Text engine (animates text as its being drawn)
+	
+
+	COMMAND SYSTEM REWORK
+	
+		- New commands: 
+		
+			ERASE-STARTUP-CONFIG
+				Description: Erases startup config from the specified location
+				Args:        -ini(erases BOOT.ini), -reg(erases registry config)
+				Syntax:      erase-startup-config {-ini/-reg}
+			
+			TEXTEFFECT
+				Description: Turns text animation on/off, modifies its speed
+				Args:        -s(sets startup text effect), -b(sets current AND startup text effect), -n(turns off text effect) //Not using -s neither -b
+					         results in the modification of the current text effect settings
+				Syntax:      texteffect {-n} <=> {-s/-b} {[effect delay in milliseconds]}
+				Note:        This is an experimental verison of this option, the effect can cause flicker and also can stuck.
+				
+			HISTORY-SETSIZE
+				Description: Sets the history size of the current CLI mode(default/registry) //Not using -s neither -b
+					         results in the modification of the current history size
+				Args:        -s(sets startup history size) -b(sets current AND startup history size)
+				Syntax:      history-setsize [new history size] {-n}
+				
+			HISTORY-GETENTRY
+				Description: Returns the specified history entry of the current CLI mode(default/registry)
+				Syntax:      history-getentry {[entry index/!entry index]} (if "!" is used as shown, the search process is reversed)
+				
+			HISORY-CLEAR
+				Description: Clears the history of the current CLI mode(default/registry)
+				
+			HISTORY-SHLIST
+				Description: Displays the current CLI mode's command history
+				Syntax: 	 history-shlist {[filter]}
+				
+			SYSFONT-FAMILY
+				Description: Sets system font family
+				Args:        -s(sets startup system font family) -b(sets current AND startup system font family) //Not using -s neither -b
+					         results in the modification of the current font family
+				Syntax:      sysfont-family [familyName] {-s/-b}
+				
+			SYSFONT-SIZE
+				Description: Sets system font size
+				Args:        -s(sets startup system font size) -b(sets current AND startup system font size) //Not using -s neither -b
+					         results in the modification of the current font size
+				Syntax:      sysfont-size [fontSize] {-s/-b}
+				
+			SYSFONT-STYLE
+				Description: Sets system font style
+				Args:        -s(sets startup system font style) -b(sets current AND startup system font style) //Not using -s neither -b
+					         results in the modification of the current font style
+				Syntax:      sysfont-style [regular/bold/italic] {-s/-b}
+				
+			DRIVER-NAMES
+				Description: Returns all driver names
+				Syntax:      driver-names {[filter]}
+				
+			ARP
+				Description: Sends ARP packets to the specified destination
+				Syntax:      arp 192.168.1.10 192.168.1.1 A1:b2:C3:d4:E5:f6
+				
+			FSEINF
+				Description: Displays file system entry info
+				Syntax:      fseinf [file/directory path]
+			
+			
+		- Modifications:	
+			
+			DIR
+				Info:     New filter argument
+				Syntax:   dir {[path]} {[filter]} 
+				
+			FORECOLOR
+				New args: -s(sets startup foreground color) -b(sets current AND startup foreground color) //Not using -s neither -b
+					      results in the modification of the current foreground color
+				Syntax:   forecolor [color name] {-s/-b}
+				
+			BACKCOLOR
+				New args: -s(sets startup background color) -b(sets current AND startup background color) //Not using -s neither -b
+					      results in the modification of the current background color
+				Syntax:   backcolor [color name] {-s/-b}
+				
+			SETFONT
+				New args: -s(sets startup font) -b(sets current AND startup font) //Not using -s neither -b
+					      results in the modification of the current system font
+				Syntax:   setfont [familyName] {[font size]} <=> {[font style]} {-s/-b}
+				
+			FULLSCREEN
+				New args: -s(set startup windowed/fullscreen) -b(-set current AND startup windowed/fullscreen) -w(set windowed) //Not using -s neither -b
+					      results in the modification of the current fullscreen mode
+				Syntax:   fullscreen {-w} <=> {-s/-b}
+				
+			EMULATION
+				New args: -s (set startup emulation) -b(set current AND startup emulation) -n(turn off emulation) //Not using -s neither -b
+					      results in the modification of the current emulation mode
+				Syntax:   emulation {-n} <=> {-s/-b}
+				
+			WORDGEN
+				Info: 
+					      - Progress display layout modified
+					      - Result dispay added
+					      - character separation is not required(duplicate characters will be removed)
+					
+			HASHCRACK
+				Info:
+						  - Progress display added
+						  - Result display added
+						  - Hash type argument removed
+					
+			MH
+				Info: 	  Arguments renamed to -sha1/-sha256/-sha384/-sha512
+			
+			GETNICS
+				Info: 	  
+					- Argument '/all' renamed to '-a'
+					- New filter argument
+					
+				Syntax: getnics {[-a]} <=> {[filter]}
+				
+			COPY-CURRENT-CONFIG
+				Info: 	  Arguments renamed to -ini/-reg
+		
+			STARTUP-SHMOTD
+				New arg:  -n(disables MOTD at startup) //Not using -n enables MOTD at startup
+				Syntax:   startup-shmotd {-n}
+				
+			DRIVER-CHECK
+				Syntax:   driver-check [driver name]
+				
+			VAL-MAKE
+				Info:     Args renamed to: -dw(dword) -bin(binary) -es(expandstring) -ms(multistring) -n(none) -qw(qword) -s(string) -u(unknown)
+				
+			SK-GET
+				Syntax:   sk-get {[subkey path]} {[filter]}
+				
+			VAL-GET
+				Syntax:   val-get {[folder path]} {[filter]}
+				
+			STARTUP-DIR
+				New arg:  -b(sets startup AND current directory)
+				Syntax:   startup-dir [folder path] {-b}
+				
+			REN
+				Info:     Renamed to RENAME
+				
+			COPY
+				New arg: -o(overwrites destination file if already exists)
+				Syntax:  copy [source file/folder path] [destination folder path] {-o}
+				
+			HELP
+				Syntax: help {[filter]}
+				
+				
+		- Removed:
+		
+			STARTUP-FCOLOR
+			STARTUP-BCOLOR
+			STARTUP-FONT
+			STARTUP-FULLSCREEN
+			STARTUP-EMULATION
+			ERASE-REGISTRY-CONFIG
+			ERASE-INI-CONFIG
+				
+				
+	AUTO COMPLETE EXPANSIONS
+				
+		history- pool added
+		
+		sysfont- pool added
+				
+		
+	MISC
+	
+		- Optimized code
+		
+		- New boot hierarchy based on execution level(instead of boot source location); Hierarchy: Administrator(Registry) > User(BOOT.ini)
+		
+		- Window title displays execution level
+		
+		- New, more reliable BOOT.ini data structure
+		
+		- Fixed: Caret can move to current directory draw location
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
