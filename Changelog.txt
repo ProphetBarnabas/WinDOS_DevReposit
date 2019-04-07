@@ -182,7 +182,7 @@ Fixed issues, new commands, minor modifications
 		
 ============================================================================================================================================
 
-WinDOS v3.2
+WinDOS v4.0
 CLIShell version: v1.1
 New commands, basic interpreter, optimization, visual upgrade, command system rework, text engine, fixes.
 
