@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\bin\x64\Debug\EFFECT_SHADOW.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\bin\x64\Debug\EFFECT_SHADOW.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\obj\x64\Debug\EFFECT_SHADOW.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\obj\x64\Debug\EFFECT_SHADOW.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\obj\x64\Debug\EFFECT_SHADOW.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\obj\x64\Debug\EFFECT_SHADOW.pdb

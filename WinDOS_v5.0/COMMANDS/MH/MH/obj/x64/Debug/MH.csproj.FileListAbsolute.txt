@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\MH\MH\bin\x64\Debug\MH.dll
+C:\Users\ProphetBarnabas\source\repos\MH\MH\bin\x64\Debug\MH.pdb
+C:\Users\ProphetBarnabas\source\repos\MH\MH\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\MH\MH\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\MH\MH\obj\x64\Debug\MH.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\MH\MH\obj\x64\Debug\MH.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\MH\MH\obj\x64\Debug\MH.dll
+C:\Users\ProphetBarnabas\source\repos\MH\MH\obj\x64\Debug\MH.pdb

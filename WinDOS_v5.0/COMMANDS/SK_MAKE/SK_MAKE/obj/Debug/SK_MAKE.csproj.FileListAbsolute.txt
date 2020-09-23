@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\SK_MAKE\SK_MAKE\bin\Debug\SK_MAKE.dll
+C:\Users\ProphetBarnabas\source\repos\SK_MAKE\SK_MAKE\bin\Debug\SK_MAKE.pdb
+C:\Users\ProphetBarnabas\source\repos\SK_MAKE\SK_MAKE\obj\Debug\SK_MAKE.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\SK_MAKE\SK_MAKE\obj\Debug\SK_MAKE.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\SK_MAKE\SK_MAKE\obj\Debug\SK_MAKE.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\SK_MAKE\SK_MAKE\obj\Debug\SK_MAKE.dll
+C:\Users\ProphetBarnabas\source\repos\SK_MAKE\SK_MAKE\obj\Debug\SK_MAKE.pdb
+C:\Users\ProphetBarnabas\source\repos\SK_MAKE\SK_MAKE\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\SK_MAKE\SK_MAKE\bin\Debug\CLIShell.pdb

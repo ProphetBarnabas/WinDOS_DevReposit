@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\EFFECT_BLUR\EFFECT_BLUR\bin\x64\Debug\EFFECT_BLUR.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_BLUR\EFFECT_BLUR\bin\x64\Debug\EFFECT_BLUR.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_BLUR\EFFECT_BLUR\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_BLUR\EFFECT_BLUR\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_BLUR\EFFECT_BLUR\obj\x64\Debug\EFFECT_BLUR.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\EFFECT_BLUR\EFFECT_BLUR\obj\x64\Debug\EFFECT_BLUR.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\EFFECT_BLUR\EFFECT_BLUR\obj\x64\Debug\EFFECT_BLUR.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_BLUR\EFFECT_BLUR\obj\x64\Debug\EFFECT_BLUR.pdb

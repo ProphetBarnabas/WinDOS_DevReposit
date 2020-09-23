@@ -1,0 +1,10 @@
+C:\Users\ProphetBarnabas\source\repos\RESETMAC\RESETMAC\bin\x64\Debug\RESETMAC.dll
+C:\Users\ProphetBarnabas\source\repos\RESETMAC\RESETMAC\bin\x64\Debug\RESETMAC.pdb
+C:\Users\ProphetBarnabas\source\repos\RESETMAC\RESETMAC\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\RESETMAC\RESETMAC\bin\x64\Debug\ToolShed.dll
+C:\Users\ProphetBarnabas\source\repos\RESETMAC\RESETMAC\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\RESETMAC\RESETMAC\bin\x64\Debug\ToolShed.pdb
+C:\Users\ProphetBarnabas\source\repos\RESETMAC\RESETMAC\obj\x64\Debug\RESETMAC.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\RESETMAC\RESETMAC\obj\x64\Debug\RESETMAC.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\RESETMAC\RESETMAC\obj\x64\Debug\RESETMAC.dll
+C:\Users\ProphetBarnabas\source\repos\RESETMAC\RESETMAC\obj\x64\Debug\RESETMAC.pdb

@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\FSEINF\FSEINF\bin\Debug\FSEINF.dll
+C:\Users\ProphetBarnabas\source\repos\FSEINF\FSEINF\bin\Debug\FSEINF.pdb
+C:\Users\ProphetBarnabas\source\repos\FSEINF\FSEINF\obj\Debug\FSEINF.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\FSEINF\FSEINF\obj\Debug\FSEINF.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\FSEINF\FSEINF\obj\Debug\FSEINF.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\FSEINF\FSEINF\obj\Debug\FSEINF.dll
+C:\Users\ProphetBarnabas\source\repos\FSEINF\FSEINF\obj\Debug\FSEINF.pdb
+C:\Users\ProphetBarnabas\source\repos\FSEINF\FSEINF\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\FSEINF\FSEINF\bin\Debug\CLIShell.pdb

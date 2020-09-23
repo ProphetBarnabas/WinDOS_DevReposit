@@ -1,0 +1,10 @@
+C:\Users\ProphetBarnabas\source\repos\HASHCRACK\HASHCRACK\bin\x64\Debug\HASHCRACK.dll
+C:\Users\ProphetBarnabas\source\repos\HASHCRACK\HASHCRACK\bin\x64\Debug\HASHCRACK.pdb
+C:\Users\ProphetBarnabas\source\repos\HASHCRACK\HASHCRACK\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\HASHCRACK\HASHCRACK\bin\x64\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\ProphetBarnabas\source\repos\HASHCRACK\HASHCRACK\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\HASHCRACK\HASHCRACK\bin\x64\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\ProphetBarnabas\source\repos\HASHCRACK\HASHCRACK\obj\x64\Debug\HASHCRACK.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\HASHCRACK\HASHCRACK\obj\x64\Debug\HASHCRACK.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\HASHCRACK\HASHCRACK\obj\x64\Debug\HASHCRACK.dll
+C:\Users\ProphetBarnabas\source\repos\HASHCRACK\HASHCRACK\obj\x64\Debug\HASHCRACK.pdb

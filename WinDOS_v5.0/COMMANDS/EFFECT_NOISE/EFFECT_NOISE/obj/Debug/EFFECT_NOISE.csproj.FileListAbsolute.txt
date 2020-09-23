@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\EFFECT_NOISE\EFFECT_NOISE\bin\Debug\EFFECT_NOISE.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_NOISE\EFFECT_NOISE\bin\Debug\EFFECT_NOISE.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_NOISE\EFFECT_NOISE\obj\Debug\EFFECT_NOISE.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\EFFECT_NOISE\EFFECT_NOISE\obj\Debug\EFFECT_NOISE.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\EFFECT_NOISE\EFFECT_NOISE\obj\Debug\EFFECT_NOISE.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\EFFECT_NOISE\EFFECT_NOISE\obj\Debug\EFFECT_NOISE.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_NOISE\EFFECT_NOISE\obj\Debug\EFFECT_NOISE.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_NOISE\EFFECT_NOISE\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_NOISE\EFFECT_NOISE\bin\Debug\CLIShell.pdb

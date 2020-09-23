@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\RENAME\RENAME\bin\x64\Debug\RENAME.dll
+C:\Users\ProphetBarnabas\source\repos\RENAME\RENAME\bin\x64\Debug\RENAME.pdb
+C:\Users\ProphetBarnabas\source\repos\RENAME\RENAME\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\RENAME\RENAME\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\RENAME\RENAME\obj\x64\Debug\RENAME.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\RENAME\RENAME\obj\x64\Debug\RENAME.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\RENAME\RENAME\obj\x64\Debug\RENAME.dll
+C:\Users\ProphetBarnabas\source\repos\RENAME\RENAME\obj\x64\Debug\RENAME.pdb

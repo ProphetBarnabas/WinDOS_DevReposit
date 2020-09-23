@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SCANLINE\EFFECT_SCANLINE\bin\x64\Release\EFFECT_SCANLINE.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SCANLINE\EFFECT_SCANLINE\bin\x64\Release\EFFECT_SCANLINE.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SCANLINE\EFFECT_SCANLINE\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SCANLINE\EFFECT_SCANLINE\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SCANLINE\EFFECT_SCANLINE\obj\x64\Release\EFFECT_SCANLINE.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SCANLINE\EFFECT_SCANLINE\obj\x64\Release\EFFECT_SCANLINE.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SCANLINE\EFFECT_SCANLINE\obj\x64\Release\EFFECT_SCANLINE.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SCANLINE\EFFECT_SCANLINE\obj\x64\Release\EFFECT_SCANLINE.pdb

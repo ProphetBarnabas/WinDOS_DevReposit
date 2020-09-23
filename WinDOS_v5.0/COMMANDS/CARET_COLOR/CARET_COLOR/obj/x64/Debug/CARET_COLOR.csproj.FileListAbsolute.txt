@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\CARET_COLOR\CARET_COLOR\bin\x64\Debug\CARET_COLOR.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_COLOR\CARET_COLOR\bin\x64\Debug\CARET_COLOR.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_COLOR\CARET_COLOR\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_COLOR\CARET_COLOR\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_COLOR\CARET_COLOR\obj\x64\Debug\CARET_COLOR.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CARET_COLOR\CARET_COLOR\obj\x64\Debug\CARET_COLOR.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CARET_COLOR\CARET_COLOR\obj\x64\Debug\CARET_COLOR.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_COLOR\CARET_COLOR\obj\x64\Debug\CARET_COLOR.pdb

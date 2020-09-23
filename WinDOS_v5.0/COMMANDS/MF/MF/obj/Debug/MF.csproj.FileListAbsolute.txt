@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\MF\MF\bin\Debug\MF.dll
+C:\Users\ProphetBarnabas\source\repos\MF\MF\bin\Debug\MF.pdb
+C:\Users\ProphetBarnabas\source\repos\MF\MF\obj\Debug\MF.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\MF\MF\obj\Debug\MF.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\MF\MF\obj\Debug\MF.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\MF\MF\obj\Debug\MF.dll
+C:\Users\ProphetBarnabas\source\repos\MF\MF\obj\Debug\MF.pdb
+C:\Users\ProphetBarnabas\source\repos\MF\MF\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\MF\MF\bin\Debug\CLIShell.pdb

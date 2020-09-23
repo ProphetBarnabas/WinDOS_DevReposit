@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\CD\CD\bin\x64\Release\CD.dll
+C:\Users\ProphetBarnabas\source\repos\CD\CD\bin\x64\Release\CD.pdb
+C:\Users\ProphetBarnabas\source\repos\CD\CD\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CD\CD\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\CD\CD\obj\x64\Release\CD.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CD\CD\obj\x64\Release\CD.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CD\CD\obj\x64\Release\CD.dll
+C:\Users\ProphetBarnabas\source\repos\CD\CD\obj\x64\Release\CD.pdb

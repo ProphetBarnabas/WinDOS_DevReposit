@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\RD\RD\bin\Debug\RD.dll
+C:\Users\ProphetBarnabas\source\repos\RD\RD\bin\Debug\RD.pdb
+C:\Users\ProphetBarnabas\source\repos\RD\RD\obj\Debug\RD.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\RD\RD\obj\Debug\RD.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\RD\RD\obj\Debug\RD.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\RD\RD\obj\Debug\RD.dll
+C:\Users\ProphetBarnabas\source\repos\RD\RD\obj\Debug\RD.pdb
+C:\Users\ProphetBarnabas\source\repos\RD\RD\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\RD\RD\bin\Debug\CLIShell.pdb

@@ -1,0 +1,12 @@
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\x64\Release\NMAP.dll
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\x64\Release\NMAP.pdb
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\x64\Release\ICSharpCode.AvalonEdit.dll
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\x64\Release\ToolShed.dll
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\x64\Release\ICSharpCode.AvalonEdit.xml
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\x64\Release\ToolShed.pdb
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\obj\x64\Release\NMAP.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\obj\x64\Release\NMAP.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\obj\x64\Release\NMAP.dll
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\obj\x64\Release\NMAP.pdb

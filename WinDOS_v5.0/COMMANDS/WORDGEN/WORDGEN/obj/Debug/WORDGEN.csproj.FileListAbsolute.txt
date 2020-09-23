@@ -1,0 +1,11 @@
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\bin\Debug\WORDGEN.dll
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\bin\Debug\WORDGEN.pdb
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\obj\Debug\WORDGEN.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\obj\Debug\WORDGEN.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\obj\Debug\WORDGEN.dll
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\obj\Debug\WORDGEN.pdb
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\obj\Debug\WORDGEN.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\bin\Debug\CLIShell.pdb

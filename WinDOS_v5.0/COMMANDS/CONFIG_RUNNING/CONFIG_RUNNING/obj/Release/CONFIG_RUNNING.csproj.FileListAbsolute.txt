@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\CONFIG_RUNNING\CONFIG_RUNNING\bin\Release\CONFIG_RUNNING.dll
+C:\Users\ProphetBarnabas\source\repos\CONFIG_RUNNING\CONFIG_RUNNING\bin\Release\CONFIG_RUNNING.pdb
+C:\Users\ProphetBarnabas\source\repos\CONFIG_RUNNING\CONFIG_RUNNING\bin\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CONFIG_RUNNING\CONFIG_RUNNING\bin\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\CONFIG_RUNNING\CONFIG_RUNNING\obj\Release\CONFIG_RUNNING.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\CONFIG_RUNNING\CONFIG_RUNNING\obj\Release\CONFIG_RUNNING.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CONFIG_RUNNING\CONFIG_RUNNING\obj\Release\CONFIG_RUNNING.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CONFIG_RUNNING\CONFIG_RUNNING\obj\Release\CONFIG_RUNNING.dll
+C:\Users\ProphetBarnabas\source\repos\CONFIG_RUNNING\CONFIG_RUNNING\obj\Release\CONFIG_RUNNING.pdb

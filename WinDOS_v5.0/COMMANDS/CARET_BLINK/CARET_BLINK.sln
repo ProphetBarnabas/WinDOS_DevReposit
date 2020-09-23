@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CARET_BLINK", "CARET_BLINK\CARET_BLINK.csproj", "{A86A6E8E-0E63-4A43-AA1B-A8E27587091A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A86A6E8E-0E63-4A43-AA1B-A8E27587091A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86A6E8E-0E63-4A43-AA1B-A8E27587091A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86A6E8E-0E63-4A43-AA1B-A8E27587091A}.Debug|x64.ActiveCfg = Debug|x64
+		{A86A6E8E-0E63-4A43-AA1B-A8E27587091A}.Debug|x64.Build.0 = Debug|x64
+		{A86A6E8E-0E63-4A43-AA1B-A8E27587091A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86A6E8E-0E63-4A43-AA1B-A8E27587091A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86A6E8E-0E63-4A43-AA1B-A8E27587091A}.Release|x64.ActiveCfg = Release|x64
+		{A86A6E8E-0E63-4A43-AA1B-A8E27587091A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF136AF-180C-4E44-B89D-A7B13AD9D15D}
+	EndGlobalSection
+EndGlobal

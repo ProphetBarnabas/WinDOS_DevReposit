@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\BACKCOLOR\BACKCOLOR\bin\Debug\BACKCOLOR.dll
+C:\Users\ProphetBarnabas\source\repos\BACKCOLOR\BACKCOLOR\bin\Debug\BACKCOLOR.pdb
+C:\Users\ProphetBarnabas\source\repos\BACKCOLOR\BACKCOLOR\obj\Debug\BACKCOLOR.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\BACKCOLOR\BACKCOLOR\obj\Debug\BACKCOLOR.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\BACKCOLOR\BACKCOLOR\obj\Debug\BACKCOLOR.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\BACKCOLOR\BACKCOLOR\obj\Debug\BACKCOLOR.dll
+C:\Users\ProphetBarnabas\source\repos\BACKCOLOR\BACKCOLOR\obj\Debug\BACKCOLOR.pdb
+C:\Users\ProphetBarnabas\source\repos\BACKCOLOR\BACKCOLOR\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\BACKCOLOR\BACKCOLOR\bin\Debug\CLIShell.pdb

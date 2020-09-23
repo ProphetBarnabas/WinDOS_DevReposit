@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\COPY\COPY\bin\x64\Debug\COPY.dll
+C:\Users\ProphetBarnabas\source\repos\COPY\COPY\bin\x64\Debug\COPY.pdb
+C:\Users\ProphetBarnabas\source\repos\COPY\COPY\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\COPY\COPY\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\COPY\COPY\obj\x64\Debug\COPY.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\COPY\COPY\obj\x64\Debug\COPY.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\COPY\COPY\obj\x64\Debug\COPY.dll
+C:\Users\ProphetBarnabas\source\repos\COPY\COPY\obj\x64\Debug\COPY.pdb

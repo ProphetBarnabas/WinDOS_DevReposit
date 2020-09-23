@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\FORECOLOR\FORECOLOR\bin\Debug\FORECOLOR.dll
+C:\Users\ProphetBarnabas\source\repos\FORECOLOR\FORECOLOR\bin\Debug\FORECOLOR.pdb
+C:\Users\ProphetBarnabas\source\repos\FORECOLOR\FORECOLOR\obj\Debug\FORECOLOR.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\FORECOLOR\FORECOLOR\obj\Debug\FORECOLOR.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\FORECOLOR\FORECOLOR\obj\Debug\FORECOLOR.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\FORECOLOR\FORECOLOR\obj\Debug\FORECOLOR.dll
+C:\Users\ProphetBarnabas\source\repos\FORECOLOR\FORECOLOR\obj\Debug\FORECOLOR.pdb
+C:\Users\ProphetBarnabas\source\repos\FORECOLOR\FORECOLOR\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\FORECOLOR\FORECOLOR\bin\Debug\CLIShell.pdb

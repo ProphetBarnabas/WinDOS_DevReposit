@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\HELP\HELP\bin\x64\Debug\HELP.dll
+C:\Users\ProphetBarnabas\source\repos\HELP\HELP\bin\x64\Debug\HELP.pdb
+C:\Users\ProphetBarnabas\source\repos\HELP\HELP\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\HELP\HELP\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\HELP\HELP\obj\x64\Debug\HELP.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\HELP\HELP\obj\x64\Debug\HELP.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\HELP\HELP\obj\x64\Debug\HELP.dll
+C:\Users\ProphetBarnabas\source\repos\HELP\HELP\obj\x64\Debug\HELP.pdb

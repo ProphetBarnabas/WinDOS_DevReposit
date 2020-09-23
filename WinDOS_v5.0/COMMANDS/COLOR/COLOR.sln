@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COLOR", "COLOR\COLOR.csproj", "{40CA01D6-0237-45A5-85EB-37AEA27A2B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40CA01D6-0237-45A5-85EB-37AEA27A2B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40CA01D6-0237-45A5-85EB-37AEA27A2B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40CA01D6-0237-45A5-85EB-37AEA27A2B79}.Debug|x64.ActiveCfg = Debug|x64
+		{40CA01D6-0237-45A5-85EB-37AEA27A2B79}.Debug|x64.Build.0 = Debug|x64
+		{40CA01D6-0237-45A5-85EB-37AEA27A2B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40CA01D6-0237-45A5-85EB-37AEA27A2B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40CA01D6-0237-45A5-85EB-37AEA27A2B79}.Release|x64.ActiveCfg = Release|x64
+		{40CA01D6-0237-45A5-85EB-37AEA27A2B79}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F73E32C-085D-45DA-9C1C-A4D64FA5F400}
+	EndGlobalSection
+EndGlobal

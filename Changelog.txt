@@ -390,47 +390,405 @@ New commands, basic interpreter, optimization, visual upgrade, command system re
 		- New, more reliable BOOT.ini data structure
 		
 		- Fixed: Caret can move to current directory draw location
-			
+
+	
+============================================================================================================================================
+	
+WinDOS v5.0
+CLIShell version: v2.0
+New commands, new settings, visual upgrade, optimizations, command rework, new fonts
+
+---------------------------------------
+
+    SYSTEM COMPONENTS
+
+        - Effect handler:
+
+            - Manages visual effects
+
+            - New effects:
+
+                - Bloom effect
+
+                - Blur effect
+
+                - CRT screen distortion
+
+                - Scanlines
+
+                - Film grain
+
+                - Vignette
+
 		
+		- System caret: Replaces basic text box caret, fully customizable
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+				
+        - Removed:
+
+            Text engine
+
+            Bootloader
+
+
+    COMMAND SYSTEM REWORK
+
+        - New commands:
+
+            EFFECT-VIGNETTE
+
+                Description: Controls vignette effect size, smoothness and edge rounding.
+
+                Args: [double:size] 
+                      -sm=[double:smoothness]
+                      -er=[double:edge rounding]
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            EFFECT-SHADOW
+
+                Description: Controls text area shadow blur radius, depth and color.
+
+                Args: -brad=[double:blur radius]
+                      -depth=[double:shadow depth] 
+                      -color=[ARGB/color name] 
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            EFFECT-SCANLINE
+
+                Description: Changes scan line density, speed and directoin.
+
+                Args: [double:density]
+                      -speed=[double:up>0>down]
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            EFFECT-NOISE
+
+                Description: Controls film grain effect intensity.
+                
+                Args: [double:noise value]
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            EFFECT-BLUR
+
+                Description: Controls text area blur effect radius and type.
+
+                Args: -rad=[double:blur radius]
+                      -type[Gaussian/Box]
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            CONFIG-STARTUP
+
+                Description: Displays or loads startup config.
+
+                Args: -load
+
+            CONFIG-RUNNING
+
+                Description: Saves/loads running config to/from the specified file.
+
+                Args: -save
+                      -save=[file path]
+                      -load=[file path]
+
+            COLOR
+
+                Description: Changes all color properties (except BACKCOLOR  and SYS_CARET_BORDER_COLOR) to the specified value.
+
+                Args: [ARGB/color name]
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            CARET-SHAPE
+
+                Description: Sets the dimensions of the system caret. Argument values must be at least 0. If width or height is 0,
+                             the caret dimensions are set automatically (automatic dimensions are optimized for the default font,
+                             and are not guaranteed to work correctly when using any other font).
+
+                Args: -w=[int:width>=0]
+                      -h=[int:height>=0]
+                      -border=[int:border thickness>=0]                      
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            CARET-SHADOW
+
+                Description: Controls system caret shadow blur radius, depth and color.
+
+                Args: -brad=[double:blur radius]
+                      -depth=[double:shadow depth] 
+                      -color=[ARGB/color name] 
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            CARET-FOOTPRINT
+
+                Description: Controls system caret footprint effect fade out duration in milliseconds or enables/disables the effect.
+
+                Args: -out=[int:fade out time>0]
+                      -n(disable footprint) 
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            CARET-FADE
+
+                Description: Sets system caret fade in/out duration in milliseconds.
+
+                Args: -in=[int:fade in duration>=0]
+                      -out=[int:fade out duration>=0]
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            CARET-COLOR
+
+                Description: Changes the color of the system caret.
+
+                Args: [ARGB/color name]
+                      -border=[ARGB/color name]
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            CARET-BLINK
+
+                Description: Controls the blink behavior of the system caret.
+
+                Args: -int=[int:fade in/out interval]
+                      -idle=[int:blink after idle time]
+                      -n(disable blink) 
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            CARET
+
+                Description: Enables/disables the system caret.
+
+                Args: -n(disable caret) 
+                      -s(save to startup) 
+                      -b(save to running and startup)
+
+            FONTLIST
+
+                Description: Returns all installed and built-in font names.
+
+                Args: [string] - name filter arg
+
+
+        - Modifications:
+
+            FORECOLOR
+
+                - Accepts ARGB color
+
+                - Format: #FFFFFFFF
+
+            BACKCOLOR
+
+                - Accepts ARGB color
+                
+                - Format: #FFFFFFFF
+
+            EXEC
+
+                - Can execute all commands
+                
+                - Async commands will not wait for the previous command to finish
+
+            FULLSCREEN
+
+                - The last non-fullscreen window dimensions are saved.
+                  When returning to windowed mode, these dimensions will be applied.
+
+            HASHCRACK
+
+                - Optimized code, execution is much faster
+                  
+                - Fixed memory leak
+
+            HELP
+
+                - Improved display format. 
+                  Aside from the command description, per-syntax option descriptions are also displayed.
+
+            HISTORY-GETENTRY
+
+                - New argument: '-r' to reverse search instead of '!' before the index
+
+            NMAP
+
+                - Does not resolve hostnames by default
+
+                - New argument: -rhost to resolve hostnames
+
+            OPEN
+
+                - Press 'F1' to save(but not exit)
+
+            RD
+
+                - New  argument: -a to remove a non-empty folder
+
+            REGEDIT
+
+                - New arguments: -s(save to startup)
+                                 -b(save to running and startup)
+                                 -ns(change CLI mode to default in startup)
+                                 -nb(change CLI mode to default in running and startup)
+
+            START
+
+                - New argument: [string] to pass arguments
+
+            SYSFONT
+
+                - New arguments: -family=[family name]
+                                 -size=[int>0]
+                                 -style=[Regular/Italic/Oblique]
+
+            WORDGEN
+
+                - Reworked arguments: [string:charset] [int:word length] -out=[output path](optional)
+
+        
+        - Removed:
+
+            STARTUP-VERBOSE
+            STARTUP-SUBKEY
+            STARUP-MOTD
+            STARTUP-SHMOTD
+            STARTUP-DIR
+            ERASE-STARTUP-CONFIG
+            COPY-CURRENT-CONFIG
+            STARTUP-CONFIG
+            ARP
+            BIOSINFO (temporary)
+            TEXTEFFECT
+            EMULATION
+            SYSFONT-STYLE
+            SYSFONT-FAMILY
+            SYSFONT-SIZE
+            FC
+
+
+        - Renamed:
+
+            STARTUP-MOTD -> MOTD
+            
+            STARTUP-SHMOTD -> SHMOTD
+
+            SETFONT -> SYSFONT
+
+
+    AUTO COMPLETE REWORK
+
+        - Auto complete pools are now constructed automatically
+
+    
+    SETTINGS
+
+        - New settings:
+
+            - CLI_MODE
+
+            - SYS_CARET
+
+            - SYS_CARET_BLINK
+            
+            - SYS_CARET_BLINK_INTERVAL
+
+            - SYS_CARET_HEIGHT
+
+            - SYS_CARET_WIDHT
+
+            - SYS_CARET_BORDER
+
+            - SYS_CARET_FOOTPRINT
+
+            - SYS_CARET_FADEIN_SPEED
+
+            - SYS_CARET_FADEOUT_SPEED
+
+            - SYS_CARET_BLINK_IDLE_TIME
+
+            - SYS_CARET_FILL_COLOR
+
+            - SYS_CARET_SHADOW_BLUR_RADIUS
+
+            - SYS_CARET_SHADOW_DEPTH
+
+            - SYS_CARET_SHADOW_COLOR
+
+            - SYS_CARET_BORDER_COLOR
+
+            - SYS_EFFECTS
+
+            - BLUR_RADIUS
+
+            - SHADOW_BLUR_RADIUS
+
+            - SHADOW_DEPTH
+
+            - SHADOW_COLOR
+
+            - BLUR_TYPE
+
+            - CRT_CURVE
+
+            - CRT_NOISE_INTENSITY
+
+            - CRT_SCANLINE_DENSITY
+
+            - CRT_SCANLINE_SPEED
+
+            - CRT_VIGNETTE_SIZE
+
+            - CRT_VIGNETTE_SMOOTHNESS
+
+            - CRT_EDGE_ROUNDING
+
+
+        - Removed:
+
+            - TextEffect
+
+            - TextEffectInterval
+
+            - Emulation
+
+            - VerboseStartup
+
+            - SystemFont
+
+
+        - Renamed:
+
+            - StartupDirectory -> DIRECTORY
+
+            - StartupSubkey -> SUBKEY
+
+
+    MISC
+
+        - Removed boot hierarchy. User and Administrator now share the same settings in 'config.ini'
+
+        - config data structure changed: ValueType:Name=Value
+
+        - Platform changed form Windows Forms to WPF
+
+        - Commands are stored in dlls and can be removed, writing and adding custom commands are also possible as neccessary
+          tools are provided
+
+        - General code optimizations
+
+        - Changed default font to PxPlus IBM EGA9
+
+    FIXES
+
+        - Cursor becomes invisible inside window
+
+        - Cursor can interact with CLI
+
+        - Unhandled errors (error handling is generally better)

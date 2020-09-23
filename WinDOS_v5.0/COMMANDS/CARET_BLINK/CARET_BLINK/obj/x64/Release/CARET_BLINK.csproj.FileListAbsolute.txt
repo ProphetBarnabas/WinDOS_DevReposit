@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\CARET_BLINK\CARET_BLINK\bin\x64\Release\CARET_BLINK.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_BLINK\CARET_BLINK\bin\x64\Release\CARET_BLINK.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_BLINK\CARET_BLINK\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_BLINK\CARET_BLINK\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_BLINK\CARET_BLINK\obj\x64\Release\CARET_BLINK.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CARET_BLINK\CARET_BLINK\obj\x64\Release\CARET_BLINK.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CARET_BLINK\CARET_BLINK\obj\x64\Release\CARET_BLINK.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_BLINK\CARET_BLINK\obj\x64\Release\CARET_BLINK.pdb

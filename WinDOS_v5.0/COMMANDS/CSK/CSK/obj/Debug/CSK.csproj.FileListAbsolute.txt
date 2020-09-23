@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\CSK\CSK\bin\Debug\CSK.dll
+C:\Users\ProphetBarnabas\source\repos\CSK\CSK\bin\Debug\CSK.pdb
+C:\Users\ProphetBarnabas\source\repos\CSK\CSK\obj\Debug\CSK.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\CSK\CSK\obj\Debug\CSK.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CSK\CSK\obj\Debug\CSK.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CSK\CSK\obj\Debug\CSK.dll
+C:\Users\ProphetBarnabas\source\repos\CSK\CSK\obj\Debug\CSK.pdb
+C:\Users\ProphetBarnabas\source\repos\CSK\CSK\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CSK\CSK\bin\Debug\CLIShell.pdb

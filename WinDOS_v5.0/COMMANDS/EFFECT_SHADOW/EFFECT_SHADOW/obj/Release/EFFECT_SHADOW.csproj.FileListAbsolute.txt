@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\bin\Release\EFFECT_SHADOW.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\bin\Release\EFFECT_SHADOW.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\bin\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\bin\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\obj\Release\EFFECT_SHADOW.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\obj\Release\EFFECT_SHADOW.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\obj\Release\EFFECT_SHADOW.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\obj\Release\EFFECT_SHADOW.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_SHADOW\EFFECT_SHADOW\obj\Release\EFFECT_SHADOW.pdb

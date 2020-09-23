@@ -1,0 +1,11 @@
+C:\Users\ProphetBarnabas\source\repos\PING\PING\bin\Release\PING.dll
+C:\Users\ProphetBarnabas\source\repos\PING\PING\bin\Release\PING.pdb
+C:\Users\ProphetBarnabas\source\repos\PING\PING\bin\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\PING\PING\bin\Release\ICSharpCode.AvalonEdit.dll
+C:\Users\ProphetBarnabas\source\repos\PING\PING\bin\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\PING\PING\bin\Release\ICSharpCode.AvalonEdit.xml
+C:\Users\ProphetBarnabas\source\repos\PING\PING\obj\Release\PING.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\PING\PING\obj\Release\PING.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\PING\PING\obj\Release\PING.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\PING\PING\obj\Release\PING.dll
+C:\Users\ProphetBarnabas\source\repos\PING\PING\obj\Release\PING.pdb

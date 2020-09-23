@@ -1,0 +1,10 @@
+C:\Users\ProphetBarnabas\source\repos\OPEN\OPEN\bin\x64\Debug\OPEN.dll
+C:\Users\ProphetBarnabas\source\repos\OPEN\OPEN\bin\x64\Debug\OPEN.pdb
+C:\Users\ProphetBarnabas\source\repos\OPEN\OPEN\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\OPEN\OPEN\bin\x64\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\ProphetBarnabas\source\repos\OPEN\OPEN\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\OPEN\OPEN\bin\x64\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\ProphetBarnabas\source\repos\OPEN\OPEN\obj\x64\Debug\OPEN.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\OPEN\OPEN\obj\x64\Debug\OPEN.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\OPEN\OPEN\obj\x64\Debug\OPEN.dll
+C:\Users\ProphetBarnabas\source\repos\OPEN\OPEN\obj\x64\Debug\OPEN.pdb

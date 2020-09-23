@@ -1,0 +1,13 @@
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\Debug\NMAP.dll
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\Debug\NMAP.pdb
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\Debug\ToolShed.dll
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\Debug\ToolShed.pdb
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\obj\Debug\NMAP.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\obj\Debug\NMAP.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\obj\Debug\NMAP.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\obj\Debug\NMAP.dll
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\obj\Debug\NMAP.pdb
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\NMAP\NMAP\bin\Debug\CLIShell.pdb

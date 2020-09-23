@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\EFFECT_CURVE\EFFECT_CURVE\bin\Debug\EFFECT_CURVE.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_CURVE\EFFECT_CURVE\bin\Debug\EFFECT_CURVE.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_CURVE\EFFECT_CURVE\obj\Debug\EFFECT_CURVE.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\EFFECT_CURVE\EFFECT_CURVE\obj\Debug\EFFECT_CURVE.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\EFFECT_CURVE\EFFECT_CURVE\obj\Debug\EFFECT_CURVE.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\EFFECT_CURVE\EFFECT_CURVE\obj\Debug\EFFECT_CURVE.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_CURVE\EFFECT_CURVE\obj\Debug\EFFECT_CURVE.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_CURVE\EFFECT_CURVE\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_CURVE\EFFECT_CURVE\bin\Debug\CLIShell.pdb

@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\bin\x64\Release\DEL.dll
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\bin\x64\Release\DEL.pdb
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\obj\x64\Release\DEL.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\obj\x64\Release\DEL.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\obj\x64\Release\DEL.dll
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\obj\x64\Release\DEL.pdb

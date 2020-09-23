@@ -1,0 +1,11 @@
+C:\Users\ProphetBarnabas\source\repos\DRIVER_CHECK\DRIVER_CHECK\bin\Release\DRIVER_CHECK.dll
+C:\Users\ProphetBarnabas\source\repos\DRIVER_CHECK\DRIVER_CHECK\bin\Release\DRIVER_CHECK.pdb
+C:\Users\ProphetBarnabas\source\repos\DRIVER_CHECK\DRIVER_CHECK\bin\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\DRIVER_CHECK\DRIVER_CHECK\bin\Release\ToolShed.dll
+C:\Users\ProphetBarnabas\source\repos\DRIVER_CHECK\DRIVER_CHECK\bin\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\DRIVER_CHECK\DRIVER_CHECK\bin\Release\ToolShed.pdb
+C:\Users\ProphetBarnabas\source\repos\DRIVER_CHECK\DRIVER_CHECK\obj\Release\DRIVER_CHECK.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\DRIVER_CHECK\DRIVER_CHECK\obj\Release\DRIVER_CHECK.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\DRIVER_CHECK\DRIVER_CHECK\obj\Release\DRIVER_CHECK.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\DRIVER_CHECK\DRIVER_CHECK\obj\Release\DRIVER_CHECK.dll
+C:\Users\ProphetBarnabas\source\repos\DRIVER_CHECK\DRIVER_CHECK\obj\Release\DRIVER_CHECK.pdb

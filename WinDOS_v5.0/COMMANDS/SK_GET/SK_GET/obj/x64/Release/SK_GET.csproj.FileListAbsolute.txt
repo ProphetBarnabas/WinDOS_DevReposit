@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\SK_GET\SK_GET\bin\x64\Release\SK_GET.dll
+C:\Users\ProphetBarnabas\source\repos\SK_GET\SK_GET\bin\x64\Release\SK_GET.pdb
+C:\Users\ProphetBarnabas\source\repos\SK_GET\SK_GET\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\SK_GET\SK_GET\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\SK_GET\SK_GET\obj\x64\Release\SK_GET.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\SK_GET\SK_GET\obj\x64\Release\SK_GET.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\SK_GET\SK_GET\obj\x64\Release\SK_GET.dll
+C:\Users\ProphetBarnabas\source\repos\SK_GET\SK_GET\obj\x64\Release\SK_GET.pdb

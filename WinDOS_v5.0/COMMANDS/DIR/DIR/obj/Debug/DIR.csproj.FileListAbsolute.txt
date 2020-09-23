@@ -1,0 +1,10 @@
+C:\Users\ProphetBarnabas\source\repos\DIR\DIR\bin\Debug\DIR.dll
+C:\Users\ProphetBarnabas\source\repos\DIR\DIR\bin\Debug\DIR.pdb
+C:\Users\ProphetBarnabas\source\repos\DIR\DIR\bin\Debug\CLIShell_NG.pdb
+C:\Users\ProphetBarnabas\source\repos\DIR\DIR\obj\Debug\DIR.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\DIR\DIR\obj\Debug\DIR.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\DIR\DIR\obj\Debug\DIR.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\DIR\DIR\obj\Debug\DIR.dll
+C:\Users\ProphetBarnabas\source\repos\DIR\DIR\obj\Debug\DIR.pdb
+C:\Users\ProphetBarnabas\source\repos\DIR\DIR\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\DIR\DIR\bin\Debug\CLIShell.pdb

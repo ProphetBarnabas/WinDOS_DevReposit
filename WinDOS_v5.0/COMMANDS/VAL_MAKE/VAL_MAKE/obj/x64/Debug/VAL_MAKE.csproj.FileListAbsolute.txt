@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\VAL_MAKE\VAL_MAKE\bin\x64\Debug\VAL_MAKE.dll
+C:\Users\ProphetBarnabas\source\repos\VAL_MAKE\VAL_MAKE\bin\x64\Debug\VAL_MAKE.pdb
+C:\Users\ProphetBarnabas\source\repos\VAL_MAKE\VAL_MAKE\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\VAL_MAKE\VAL_MAKE\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\VAL_MAKE\VAL_MAKE\obj\x64\Debug\VAL_MAKE.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\VAL_MAKE\VAL_MAKE\obj\x64\Debug\VAL_MAKE.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\VAL_MAKE\VAL_MAKE\obj\x64\Debug\VAL_MAKE.dll
+C:\Users\ProphetBarnabas\source\repos\VAL_MAKE\VAL_MAKE\obj\x64\Debug\VAL_MAKE.pdb

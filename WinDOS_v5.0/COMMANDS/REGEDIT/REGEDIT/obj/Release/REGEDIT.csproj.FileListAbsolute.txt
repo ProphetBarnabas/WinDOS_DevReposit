@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\REGEDIT\REGEDIT\bin\Release\REGEDIT.dll
+C:\Users\ProphetBarnabas\source\repos\REGEDIT\REGEDIT\bin\Release\REGEDIT.pdb
+C:\Users\ProphetBarnabas\source\repos\REGEDIT\REGEDIT\bin\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\REGEDIT\REGEDIT\bin\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\REGEDIT\REGEDIT\obj\Release\REGEDIT.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\REGEDIT\REGEDIT\obj\Release\REGEDIT.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\REGEDIT\REGEDIT\obj\Release\REGEDIT.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\REGEDIT\REGEDIT\obj\Release\REGEDIT.dll
+C:\Users\ProphetBarnabas\source\repos\REGEDIT\REGEDIT\obj\Release\REGEDIT.pdb

@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\FULLSCREEN\FULLSCREEN\bin\x64\Release\FULLSCREEN.dll
+C:\Users\ProphetBarnabas\source\repos\FULLSCREEN\FULLSCREEN\bin\x64\Release\FULLSCREEN.pdb
+C:\Users\ProphetBarnabas\source\repos\FULLSCREEN\FULLSCREEN\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\FULLSCREEN\FULLSCREEN\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\FULLSCREEN\FULLSCREEN\obj\x64\Release\FULLSCREEN.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\FULLSCREEN\FULLSCREEN\obj\x64\Release\FULLSCREEN.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\FULLSCREEN\FULLSCREEN\obj\x64\Release\FULLSCREEN.dll
+C:\Users\ProphetBarnabas\source\repos\FULLSCREEN\FULLSCREEN\obj\x64\Release\FULLSCREEN.pdb

@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\VAL_SET\VAL_SET\bin\Debug\VAL_SET.dll
+C:\Users\ProphetBarnabas\source\repos\VAL_SET\VAL_SET\bin\Debug\VAL_SET.pdb
+C:\Users\ProphetBarnabas\source\repos\VAL_SET\VAL_SET\obj\Debug\VAL_SET.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\VAL_SET\VAL_SET\obj\Debug\VAL_SET.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\VAL_SET\VAL_SET\obj\Debug\VAL_SET.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\VAL_SET\VAL_SET\obj\Debug\VAL_SET.dll
+C:\Users\ProphetBarnabas\source\repos\VAL_SET\VAL_SET\obj\Debug\VAL_SET.pdb
+C:\Users\ProphetBarnabas\source\repos\VAL_SET\VAL_SET\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\VAL_SET\VAL_SET\bin\Debug\CLIShell.pdb

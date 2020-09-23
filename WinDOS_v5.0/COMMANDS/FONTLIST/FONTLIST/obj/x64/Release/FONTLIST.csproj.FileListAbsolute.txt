@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\FONTLIST\FONTLIST\bin\x64\Release\FONTLIST.dll
+C:\Users\ProphetBarnabas\source\repos\FONTLIST\FONTLIST\bin\x64\Release\FONTLIST.pdb
+C:\Users\ProphetBarnabas\source\repos\FONTLIST\FONTLIST\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\FONTLIST\FONTLIST\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\FONTLIST\FONTLIST\obj\x64\Release\FONTLIST.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\FONTLIST\FONTLIST\obj\x64\Release\FONTLIST.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\FONTLIST\FONTLIST\obj\x64\Release\FONTLIST.dll
+C:\Users\ProphetBarnabas\source\repos\FONTLIST\FONTLIST\obj\x64\Release\FONTLIST.pdb

@@ -1,0 +1,11 @@
+C:\Users\ProphetBarnabas\source\repos\CLS\CLS\bin\Release\CLS.dll
+C:\Users\ProphetBarnabas\source\repos\CLS\CLS\bin\Release\CLS.pdb
+C:\Users\ProphetBarnabas\source\repos\CLS\CLS\bin\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CLS\CLS\bin\Release\ICSharpCode.AvalonEdit.dll
+C:\Users\ProphetBarnabas\source\repos\CLS\CLS\bin\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\CLS\CLS\bin\Release\ICSharpCode.AvalonEdit.xml
+C:\Users\ProphetBarnabas\source\repos\CLS\CLS\obj\Release\CLS.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\CLS\CLS\obj\Release\CLS.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CLS\CLS\obj\Release\CLS.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CLS\CLS\obj\Release\CLS.dll
+C:\Users\ProphetBarnabas\source\repos\CLS\CLS\obj\Release\CLS.pdb

@@ -1,0 +1,10 @@
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\bin\x64\Release\WORDGEN.dll
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\bin\x64\Release\WORDGEN.pdb
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\bin\x64\Release\ICSharpCode.AvalonEdit.dll
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\bin\x64\Release\ICSharpCode.AvalonEdit.xml
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\obj\x64\Release\WORDGEN.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\obj\x64\Release\WORDGEN.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\obj\x64\Release\WORDGEN.dll
+C:\Users\ProphetBarnabas\source\repos\WORDGEN\WORDGEN\obj\x64\Release\WORDGEN.pdb

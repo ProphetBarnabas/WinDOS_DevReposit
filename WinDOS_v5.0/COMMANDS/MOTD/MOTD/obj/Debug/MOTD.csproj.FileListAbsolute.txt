@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\MOTD\MOTD\bin\Debug\MOTD.dll
+C:\Users\ProphetBarnabas\source\repos\MOTD\MOTD\bin\Debug\MOTD.pdb
+C:\Users\ProphetBarnabas\source\repos\MOTD\MOTD\obj\Debug\MOTD.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\MOTD\MOTD\obj\Debug\MOTD.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\MOTD\MOTD\obj\Debug\MOTD.dll
+C:\Users\ProphetBarnabas\source\repos\MOTD\MOTD\obj\Debug\MOTD.pdb
+C:\Users\ProphetBarnabas\source\repos\MOTD\MOTD\obj\Debug\MOTD.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\MOTD\MOTD\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\MOTD\MOTD\bin\Debug\CLIShell.pdb

@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\SYSFONT\SYSFONT\bin\Release\SYSFONT.dll
+C:\Users\ProphetBarnabas\source\repos\SYSFONT\SYSFONT\bin\Release\SYSFONT.pdb
+C:\Users\ProphetBarnabas\source\repos\SYSFONT\SYSFONT\bin\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\SYSFONT\SYSFONT\bin\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\SYSFONT\SYSFONT\obj\Release\SYSFONT.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\SYSFONT\SYSFONT\obj\Release\SYSFONT.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\SYSFONT\SYSFONT\obj\Release\SYSFONT.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\SYSFONT\SYSFONT\obj\Release\SYSFONT.dll
+C:\Users\ProphetBarnabas\source\repos\SYSFONT\SYSFONT\obj\Release\SYSFONT.pdb

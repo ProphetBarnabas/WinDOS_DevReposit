@@ -1,0 +1,10 @@
+C:\Users\ProphetBarnabas\source\repos\DRIVER_INFO\DRIVER_INFO\bin\x64\Debug\DRIVER_INFO.dll
+C:\Users\ProphetBarnabas\source\repos\DRIVER_INFO\DRIVER_INFO\bin\x64\Debug\DRIVER_INFO.pdb
+C:\Users\ProphetBarnabas\source\repos\DRIVER_INFO\DRIVER_INFO\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\DRIVER_INFO\DRIVER_INFO\bin\x64\Debug\ToolShed.dll
+C:\Users\ProphetBarnabas\source\repos\DRIVER_INFO\DRIVER_INFO\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\DRIVER_INFO\DRIVER_INFO\bin\x64\Debug\ToolShed.pdb
+C:\Users\ProphetBarnabas\source\repos\DRIVER_INFO\DRIVER_INFO\obj\x64\Debug\DRIVER_INFO.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\DRIVER_INFO\DRIVER_INFO\obj\x64\Debug\DRIVER_INFO.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\DRIVER_INFO\DRIVER_INFO\obj\x64\Debug\DRIVER_INFO.dll
+C:\Users\ProphetBarnabas\source\repos\DRIVER_INFO\DRIVER_INFO\obj\x64\Debug\DRIVER_INFO.pdb

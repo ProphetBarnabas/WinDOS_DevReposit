@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\CARET_FADE\CARET_FADE\bin\x64\Debug\CARET_FADE.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_FADE\CARET_FADE\bin\x64\Debug\CARET_FADE.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_FADE\CARET_FADE\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_FADE\CARET_FADE\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_FADE\CARET_FADE\obj\x64\Debug\CARET_FADE.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CARET_FADE\CARET_FADE\obj\x64\Debug\CARET_FADE.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CARET_FADE\CARET_FADE\obj\x64\Debug\CARET_FADE.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_FADE\CARET_FADE\obj\x64\Debug\CARET_FADE.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_FADE\CARET_FADE\obj\x64\Debug\CARET_FADE.csprojAssemblyReference.cache

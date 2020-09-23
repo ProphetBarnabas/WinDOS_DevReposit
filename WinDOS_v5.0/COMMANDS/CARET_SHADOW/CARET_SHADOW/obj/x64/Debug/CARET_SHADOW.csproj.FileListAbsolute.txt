@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\CARET_SHADOW\CARET_SHADOW\bin\x64\Debug\CARET_SHADOW.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_SHADOW\CARET_SHADOW\bin\x64\Debug\CARET_SHADOW.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_SHADOW\CARET_SHADOW\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_SHADOW\CARET_SHADOW\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_SHADOW\CARET_SHADOW\obj\x64\Debug\CARET_SHADOW.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CARET_SHADOW\CARET_SHADOW\obj\x64\Debug\CARET_SHADOW.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CARET_SHADOW\CARET_SHADOW\obj\x64\Debug\CARET_SHADOW.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_SHADOW\CARET_SHADOW\obj\x64\Debug\CARET_SHADOW.pdb

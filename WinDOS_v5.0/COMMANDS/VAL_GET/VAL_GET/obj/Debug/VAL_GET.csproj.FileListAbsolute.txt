@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\bin\Debug\VAL_GET.dll
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\bin\Debug\VAL_GET.pdb
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\obj\Debug\VAL_GET.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\obj\Debug\VAL_GET.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\obj\Debug\VAL_GET.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\obj\Debug\VAL_GET.dll
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\obj\Debug\VAL_GET.pdb
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\bin\Debug\CLIShell.pdb

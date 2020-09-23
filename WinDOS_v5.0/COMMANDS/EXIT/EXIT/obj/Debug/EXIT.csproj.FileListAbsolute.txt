@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\EXIT\EXIT\bin\Debug\EXIT.dll
+C:\Users\ProphetBarnabas\source\repos\EXIT\EXIT\bin\Debug\EXIT.pdb
+C:\Users\ProphetBarnabas\source\repos\EXIT\EXIT\obj\Debug\EXIT.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\EXIT\EXIT\obj\Debug\EXIT.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\EXIT\EXIT\obj\Debug\EXIT.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\EXIT\EXIT\obj\Debug\EXIT.dll
+C:\Users\ProphetBarnabas\source\repos\EXIT\EXIT\obj\Debug\EXIT.pdb
+C:\Users\ProphetBarnabas\source\repos\EXIT\EXIT\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\EXIT\EXIT\bin\Debug\CLIShell.pdb

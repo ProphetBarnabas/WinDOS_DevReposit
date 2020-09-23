@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\MOVE\MOVE\bin\Debug\MOVE.dll
+C:\Users\ProphetBarnabas\source\repos\MOVE\MOVE\bin\Debug\MOVE.pdb
+C:\Users\ProphetBarnabas\source\repos\MOVE\MOVE\obj\Debug\MOVE.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\MOVE\MOVE\obj\Debug\MOVE.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\MOVE\MOVE\obj\Debug\MOVE.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\MOVE\MOVE\obj\Debug\MOVE.dll
+C:\Users\ProphetBarnabas\source\repos\MOVE\MOVE\obj\Debug\MOVE.pdb
+C:\Users\ProphetBarnabas\source\repos\MOVE\MOVE\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\MOVE\MOVE\bin\Debug\CLIShell.pdb

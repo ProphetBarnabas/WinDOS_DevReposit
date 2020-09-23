@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRIVER_INFO", "DRIVER_INFO\DRIVER_INFO.csproj", "{206204FB-4D31-4001-BE7E-A2CE6A26D5C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206204FB-4D31-4001-BE7E-A2CE6A26D5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206204FB-4D31-4001-BE7E-A2CE6A26D5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206204FB-4D31-4001-BE7E-A2CE6A26D5C6}.Debug|x64.ActiveCfg = Debug|x64
+		{206204FB-4D31-4001-BE7E-A2CE6A26D5C6}.Debug|x64.Build.0 = Debug|x64
+		{206204FB-4D31-4001-BE7E-A2CE6A26D5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206204FB-4D31-4001-BE7E-A2CE6A26D5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206204FB-4D31-4001-BE7E-A2CE6A26D5C6}.Release|x64.ActiveCfg = Release|x64
+		{206204FB-4D31-4001-BE7E-A2CE6A26D5C6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF45D23E-2758-48DE-9AC0-E99B956C3992}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SETSIZE\HISTORY_SETSIZE\bin\Debug\HISTORY_SETSIZE.dll
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SETSIZE\HISTORY_SETSIZE\bin\Debug\HISTORY_SETSIZE.pdb
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SETSIZE\HISTORY_SETSIZE\obj\Debug\HISTORY_SETSIZE.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SETSIZE\HISTORY_SETSIZE\obj\Debug\HISTORY_SETSIZE.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SETSIZE\HISTORY_SETSIZE\obj\Debug\HISTORY_SETSIZE.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SETSIZE\HISTORY_SETSIZE\obj\Debug\HISTORY_SETSIZE.dll
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SETSIZE\HISTORY_SETSIZE\obj\Debug\HISTORY_SETSIZE.pdb
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SETSIZE\HISTORY_SETSIZE\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SETSIZE\HISTORY_SETSIZE\bin\Debug\CLIShell.pdb

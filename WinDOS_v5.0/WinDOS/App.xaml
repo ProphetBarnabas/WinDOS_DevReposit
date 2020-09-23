@@ -1,0 +1,56 @@
+﻿<Application x:Class="WinDOS.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WinDOS"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="EGA9">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#PxPlus IBM EGA9"></Setter>
+        </Style>
+        <Style x:Key="BIOS">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#PxPlus IBM BIOS"></Setter>
+        </Style>
+        <Style x:Key="CGA">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#PxPlus IBM CGA"></Setter>
+        </Style>
+        <Style x:Key="CGAThin">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#PxPlus IBM CGAthin"></Setter>
+        </Style>
+        <Style x:Key="EGA8">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#PxPlus IBM EGA8"></Setter>
+        </Style>
+        <Style x:Key="MDA">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#PxPlus IBM MDA"></Setter>
+        </Style>
+        <Style x:Key="VGA8">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#PxPlus IBM VGA8"></Setter>
+        </Style>
+        <Style x:Key="VGA9">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#PxPlus IBM VGA9"></Setter>
+        </Style>
+        <Style x:Key="TandyNew225">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#PxPlus TandyNew 225"></Setter>
+        </Style>
+        <Style x:Key="TandyNewTV">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#PxPlus TandyNew TV"></Setter>
+        </Style>
+        <Style x:Key="Amstrad">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#PxPlus AmstradPC1512"></Setter>
+        </Style>
+        <Style x:Key="3270Medium">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#IBM 3270"></Setter>
+        </Style>
+        <Style x:Key="C64">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#C64 Pro Mono"></Setter>
+        </Style>
+        <Style x:Key="FSE">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#Fixedsys Excelsior 3.01-L2"></Setter>
+        </Style>
+        <Style x:Key="ProFontWindows">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#ProFontWindows"></Setter>
+        </Style>
+        <Style x:Key="Terminus">
+            <Setter Property="TextElement.FontFamily" Value="/Font/#Terminus (TTF)"></Setter>
+        </Style>
+    </Application.Resources>
+</Application>

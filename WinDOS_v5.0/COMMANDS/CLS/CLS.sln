@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLS", "CLS\CLS.csproj", "{7AD411DC-BFFD-402F-862E-3A90F3A625F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD411DC-BFFD-402F-862E-3A90F3A625F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD411DC-BFFD-402F-862E-3A90F3A625F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD411DC-BFFD-402F-862E-3A90F3A625F5}.Debug|x64.ActiveCfg = Debug|x64
+		{7AD411DC-BFFD-402F-862E-3A90F3A625F5}.Debug|x64.Build.0 = Debug|x64
+		{7AD411DC-BFFD-402F-862E-3A90F3A625F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD411DC-BFFD-402F-862E-3A90F3A625F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD411DC-BFFD-402F-862E-3A90F3A625F5}.Release|x64.ActiveCfg = Release|x64
+		{7AD411DC-BFFD-402F-862E-3A90F3A625F5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {942B49BE-D635-4572-9F6E-488D1D61FDA5}
+	EndGlobalSection
+EndGlobal

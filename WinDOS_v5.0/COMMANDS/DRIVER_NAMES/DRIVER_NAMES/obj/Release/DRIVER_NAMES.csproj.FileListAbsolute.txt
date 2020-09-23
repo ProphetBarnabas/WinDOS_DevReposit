@@ -1,0 +1,11 @@
+C:\Users\ProphetBarnabas\source\repos\DRIVER_NAMES\DRIVER_NAMES\bin\Release\DRIVER_NAMES.dll
+C:\Users\ProphetBarnabas\source\repos\DRIVER_NAMES\DRIVER_NAMES\bin\Release\DRIVER_NAMES.pdb
+C:\Users\ProphetBarnabas\source\repos\DRIVER_NAMES\DRIVER_NAMES\bin\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\DRIVER_NAMES\DRIVER_NAMES\bin\Release\ToolShed.dll
+C:\Users\ProphetBarnabas\source\repos\DRIVER_NAMES\DRIVER_NAMES\bin\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\DRIVER_NAMES\DRIVER_NAMES\bin\Release\ToolShed.pdb
+C:\Users\ProphetBarnabas\source\repos\DRIVER_NAMES\DRIVER_NAMES\obj\Release\DRIVER_NAMES.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\DRIVER_NAMES\DRIVER_NAMES\obj\Release\DRIVER_NAMES.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\DRIVER_NAMES\DRIVER_NAMES\obj\Release\DRIVER_NAMES.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\DRIVER_NAMES\DRIVER_NAMES\obj\Release\DRIVER_NAMES.dll
+C:\Users\ProphetBarnabas\source\repos\DRIVER_NAMES\DRIVER_NAMES\obj\Release\DRIVER_NAMES.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFFECT_SCANLINE", "EFFECT_SCANLINE\EFFECT_SCANLINE.csproj", "{2539A106-471E-4945-847B-328E8FE4C60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2539A106-471E-4945-847B-328E8FE4C60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2539A106-471E-4945-847B-328E8FE4C60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2539A106-471E-4945-847B-328E8FE4C60D}.Debug|x64.ActiveCfg = Debug|x64
+		{2539A106-471E-4945-847B-328E8FE4C60D}.Debug|x64.Build.0 = Debug|x64
+		{2539A106-471E-4945-847B-328E8FE4C60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2539A106-471E-4945-847B-328E8FE4C60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2539A106-471E-4945-847B-328E8FE4C60D}.Release|x64.ActiveCfg = Release|x64
+		{2539A106-471E-4945-847B-328E8FE4C60D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AEC5A96-2BF6-4262-9ED2-CF8BB14FCC21}
+	EndGlobalSection
+EndGlobal

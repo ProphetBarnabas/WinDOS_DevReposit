@@ -1,0 +1,10 @@
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\bin\Debug\DEL.dll
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\bin\Debug\DEL.pdb
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\bin\Debug\CLIShell_NG.pdb
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\obj\Debug\DEL.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\obj\Debug\DEL.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\obj\Debug\DEL.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\obj\Debug\DEL.dll
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\obj\Debug\DEL.pdb
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\DEL\DEL\bin\Debug\CLIShell.pdb

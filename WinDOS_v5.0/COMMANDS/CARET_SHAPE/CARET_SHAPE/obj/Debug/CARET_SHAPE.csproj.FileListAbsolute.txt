@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\CARET_SHAPE\CARET_SHAPE\bin\Debug\CARET_SHAPE.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_SHAPE\CARET_SHAPE\bin\Debug\CARET_SHAPE.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_SHAPE\CARET_SHAPE\obj\Debug\CARET_SHAPE.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\CARET_SHAPE\CARET_SHAPE\obj\Debug\CARET_SHAPE.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CARET_SHAPE\CARET_SHAPE\obj\Debug\CARET_SHAPE.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CARET_SHAPE\CARET_SHAPE\obj\Debug\CARET_SHAPE.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_SHAPE\CARET_SHAPE\obj\Debug\CARET_SHAPE.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_SHAPE\CARET_SHAPE\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_SHAPE\CARET_SHAPE\bin\Debug\CLIShell.pdb

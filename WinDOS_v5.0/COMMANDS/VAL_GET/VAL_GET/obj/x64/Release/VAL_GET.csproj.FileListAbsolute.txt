@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\bin\x64\Release\VAL_GET.dll
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\bin\x64\Release\VAL_GET.pdb
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\obj\x64\Release\VAL_GET.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\obj\x64\Release\VAL_GET.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\obj\x64\Release\VAL_GET.dll
+C:\Users\ProphetBarnabas\source\repos\VAL_GET\VAL_GET\obj\x64\Release\VAL_GET.pdb

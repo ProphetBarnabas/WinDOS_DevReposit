@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\COLOR\COLOR\bin\Release\COLOR.dll
+C:\Users\ProphetBarnabas\source\repos\COLOR\COLOR\bin\Release\COLOR.pdb
+C:\Users\ProphetBarnabas\source\repos\COLOR\COLOR\bin\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\COLOR\COLOR\bin\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\COLOR\COLOR\obj\Release\COLOR.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\COLOR\COLOR\obj\Release\COLOR.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\COLOR\COLOR\obj\Release\COLOR.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\COLOR\COLOR\obj\Release\COLOR.dll
+C:\Users\ProphetBarnabas\source\repos\COLOR\COLOR\obj\Release\COLOR.pdb

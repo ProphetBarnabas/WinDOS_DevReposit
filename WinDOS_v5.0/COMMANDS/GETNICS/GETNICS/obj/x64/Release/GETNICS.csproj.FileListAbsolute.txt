@@ -1,0 +1,10 @@
+C:\Users\ProphetBarnabas\source\repos\GETNICS\GETNICS\bin\x64\Release\GETNICS.dll
+C:\Users\ProphetBarnabas\source\repos\GETNICS\GETNICS\bin\x64\Release\GETNICS.pdb
+C:\Users\ProphetBarnabas\source\repos\GETNICS\GETNICS\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\GETNICS\GETNICS\bin\x64\Release\ToolShed.dll
+C:\Users\ProphetBarnabas\source\repos\GETNICS\GETNICS\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\GETNICS\GETNICS\bin\x64\Release\ToolShed.pdb
+C:\Users\ProphetBarnabas\source\repos\GETNICS\GETNICS\obj\x64\Release\GETNICS.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\GETNICS\GETNICS\obj\x64\Release\GETNICS.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\GETNICS\GETNICS\obj\x64\Release\GETNICS.dll
+C:\Users\ProphetBarnabas\source\repos\GETNICS\GETNICS\obj\x64\Release\GETNICS.pdb

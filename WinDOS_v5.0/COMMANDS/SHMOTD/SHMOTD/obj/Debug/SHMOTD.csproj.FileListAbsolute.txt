@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\SHMOTD\SHMOTD\bin\Debug\SHMOTD.dll
+C:\Users\ProphetBarnabas\source\repos\SHMOTD\SHMOTD\bin\Debug\SHMOTD.pdb
+C:\Users\ProphetBarnabas\source\repos\SHMOTD\SHMOTD\obj\Debug\SHMOTD.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\SHMOTD\SHMOTD\obj\Debug\SHMOTD.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\SHMOTD\SHMOTD\obj\Debug\SHMOTD.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\SHMOTD\SHMOTD\obj\Debug\SHMOTD.dll
+C:\Users\ProphetBarnabas\source\repos\SHMOTD\SHMOTD\obj\Debug\SHMOTD.pdb
+C:\Users\ProphetBarnabas\source\repos\SHMOTD\SHMOTD\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\SHMOTD\SHMOTD\bin\Debug\CLIShell.pdb

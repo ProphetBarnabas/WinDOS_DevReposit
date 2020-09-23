@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SHLIST\HISTORY_SHLIST\bin\x64\Debug\HISTORY_SHLIST.dll
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SHLIST\HISTORY_SHLIST\bin\x64\Debug\HISTORY_SHLIST.pdb
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SHLIST\HISTORY_SHLIST\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SHLIST\HISTORY_SHLIST\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SHLIST\HISTORY_SHLIST\obj\x64\Debug\HISTORY_SHLIST.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SHLIST\HISTORY_SHLIST\obj\x64\Debug\HISTORY_SHLIST.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SHLIST\HISTORY_SHLIST\obj\x64\Debug\HISTORY_SHLIST.dll
+C:\Users\ProphetBarnabas\source\repos\HISTORY_SHLIST\HISTORY_SHLIST\obj\x64\Debug\HISTORY_SHLIST.pdb

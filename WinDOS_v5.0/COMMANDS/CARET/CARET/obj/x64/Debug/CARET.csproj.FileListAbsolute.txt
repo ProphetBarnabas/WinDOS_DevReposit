@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\CARET\CARET\bin\x64\Debug\CARET.dll
+C:\Users\ProphetBarnabas\source\repos\CARET\CARET\bin\x64\Debug\CARET.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET\CARET\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CARET\CARET\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET\CARET\obj\x64\Debug\CARET.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CARET\CARET\obj\x64\Debug\CARET.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CARET\CARET\obj\x64\Debug\CARET.dll
+C:\Users\ProphetBarnabas\source\repos\CARET\CARET\obj\x64\Debug\CARET.pdb

@@ -1,0 +1,11 @@
+C:\Users\ProphetBarnabas\source\repos\EXEC\EXEC\bin\Release\EXEC.dll
+C:\Users\ProphetBarnabas\source\repos\EXEC\EXEC\bin\Release\EXEC.pdb
+C:\Users\ProphetBarnabas\source\repos\EXEC\EXEC\bin\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\EXEC\EXEC\bin\Release\ICSharpCode.AvalonEdit.dll
+C:\Users\ProphetBarnabas\source\repos\EXEC\EXEC\bin\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\EXEC\EXEC\bin\Release\ICSharpCode.AvalonEdit.xml
+C:\Users\ProphetBarnabas\source\repos\EXEC\EXEC\obj\Release\EXEC.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\EXEC\EXEC\obj\Release\EXEC.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\EXEC\EXEC\obj\Release\EXEC.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\EXEC\EXEC\obj\Release\EXEC.dll
+C:\Users\ProphetBarnabas\source\repos\EXEC\EXEC\obj\Release\EXEC.pdb

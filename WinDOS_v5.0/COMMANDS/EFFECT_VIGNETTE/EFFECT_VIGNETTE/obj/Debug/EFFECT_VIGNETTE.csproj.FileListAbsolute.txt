@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\EFFECT_VIGNETTE\EFFECT_VIGNETTE\bin\Debug\EFFECT_VIGNETTE.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_VIGNETTE\EFFECT_VIGNETTE\bin\Debug\EFFECT_VIGNETTE.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_VIGNETTE\EFFECT_VIGNETTE\obj\Debug\EFFECT_VIGNETTE.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\EFFECT_VIGNETTE\EFFECT_VIGNETTE\obj\Debug\EFFECT_VIGNETTE.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\EFFECT_VIGNETTE\EFFECT_VIGNETTE\obj\Debug\EFFECT_VIGNETTE.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\EFFECT_VIGNETTE\EFFECT_VIGNETTE\obj\Debug\EFFECT_VIGNETTE.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_VIGNETTE\EFFECT_VIGNETTE\obj\Debug\EFFECT_VIGNETTE.pdb
+C:\Users\ProphetBarnabas\source\repos\EFFECT_VIGNETTE\EFFECT_VIGNETTE\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\EFFECT_VIGNETTE\EFFECT_VIGNETTE\bin\Debug\CLIShell.pdb

@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\CARET_FOOTPRINT\CARET_FOOTPRINT\bin\x64\Debug\CARET_FOOTPRINT.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_FOOTPRINT\CARET_FOOTPRINT\bin\x64\Debug\CARET_FOOTPRINT.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_FOOTPRINT\CARET_FOOTPRINT\bin\x64\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_FOOTPRINT\CARET_FOOTPRINT\bin\x64\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\CARET_FOOTPRINT\CARET_FOOTPRINT\obj\x64\Debug\CARET_FOOTPRINT.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CARET_FOOTPRINT\CARET_FOOTPRINT\obj\x64\Debug\CARET_FOOTPRINT.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CARET_FOOTPRINT\CARET_FOOTPRINT\obj\x64\Debug\CARET_FOOTPRINT.dll
+C:\Users\ProphetBarnabas\source\repos\CARET_FOOTPRINT\CARET_FOOTPRINT\obj\x64\Debug\CARET_FOOTPRINT.pdb

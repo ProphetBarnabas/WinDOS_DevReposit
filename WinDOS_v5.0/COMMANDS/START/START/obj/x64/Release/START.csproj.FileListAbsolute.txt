@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\START\START\bin\x64\Release\START.dll
+C:\Users\ProphetBarnabas\source\repos\START\START\bin\x64\Release\START.pdb
+C:\Users\ProphetBarnabas\source\repos\START\START\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\START\START\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\START\START\obj\x64\Release\START.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\START\START\obj\x64\Release\START.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\START\START\obj\x64\Release\START.dll
+C:\Users\ProphetBarnabas\source\repos\START\START\obj\x64\Release\START.pdb

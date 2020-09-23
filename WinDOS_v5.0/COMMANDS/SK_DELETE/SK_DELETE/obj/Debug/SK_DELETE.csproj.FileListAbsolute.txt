@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\SK_DELETE\SK_DELETE\bin\Debug\SK_DELETE.dll
+C:\Users\ProphetBarnabas\source\repos\SK_DELETE\SK_DELETE\bin\Debug\SK_DELETE.pdb
+C:\Users\ProphetBarnabas\source\repos\SK_DELETE\SK_DELETE\obj\Debug\SK_DELETE.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\SK_DELETE\SK_DELETE\obj\Debug\SK_DELETE.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\SK_DELETE\SK_DELETE\obj\Debug\SK_DELETE.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\SK_DELETE\SK_DELETE\obj\Debug\SK_DELETE.dll
+C:\Users\ProphetBarnabas\source\repos\SK_DELETE\SK_DELETE\obj\Debug\SK_DELETE.pdb
+C:\Users\ProphetBarnabas\source\repos\SK_DELETE\SK_DELETE\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\SK_DELETE\SK_DELETE\bin\Debug\CLIShell.pdb

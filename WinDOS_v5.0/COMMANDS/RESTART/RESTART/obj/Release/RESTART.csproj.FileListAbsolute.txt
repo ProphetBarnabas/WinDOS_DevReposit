@@ -1,0 +1,9 @@
+C:\Users\ProphetBarnabas\source\repos\RESTART\RESTART\bin\Release\RESTART.dll
+C:\Users\ProphetBarnabas\source\repos\RESTART\RESTART\bin\Release\RESTART.pdb
+C:\Users\ProphetBarnabas\source\repos\RESTART\RESTART\bin\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\RESTART\RESTART\bin\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\RESTART\RESTART\obj\Release\RESTART.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\RESTART\RESTART\obj\Release\RESTART.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\RESTART\RESTART\obj\Release\RESTART.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\RESTART\RESTART\obj\Release\RESTART.dll
+C:\Users\ProphetBarnabas\source\repos\RESTART\RESTART\obj\Release\RESTART.pdb

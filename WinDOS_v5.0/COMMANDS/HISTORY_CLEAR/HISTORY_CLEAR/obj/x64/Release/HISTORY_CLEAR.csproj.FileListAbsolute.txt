@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\HISTORY_CLEAR\HISTORY_CLEAR\bin\x64\Release\HISTORY_CLEAR.dll
+C:\Users\ProphetBarnabas\source\repos\HISTORY_CLEAR\HISTORY_CLEAR\bin\x64\Release\HISTORY_CLEAR.pdb
+C:\Users\ProphetBarnabas\source\repos\HISTORY_CLEAR\HISTORY_CLEAR\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\HISTORY_CLEAR\HISTORY_CLEAR\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\HISTORY_CLEAR\HISTORY_CLEAR\obj\x64\Release\HISTORY_CLEAR.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\HISTORY_CLEAR\HISTORY_CLEAR\obj\x64\Release\HISTORY_CLEAR.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\HISTORY_CLEAR\HISTORY_CLEAR\obj\x64\Release\HISTORY_CLEAR.dll
+C:\Users\ProphetBarnabas\source\repos\HISTORY_CLEAR\HISTORY_CLEAR\obj\x64\Release\HISTORY_CLEAR.pdb

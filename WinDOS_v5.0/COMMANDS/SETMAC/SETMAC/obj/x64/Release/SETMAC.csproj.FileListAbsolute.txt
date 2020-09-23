@@ -1,0 +1,10 @@
+C:\Users\ProphetBarnabas\source\repos\SETMAC\SETMAC\bin\x64\Release\SETMAC.dll
+C:\Users\ProphetBarnabas\source\repos\SETMAC\SETMAC\bin\x64\Release\SETMAC.pdb
+C:\Users\ProphetBarnabas\source\repos\SETMAC\SETMAC\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\SETMAC\SETMAC\bin\x64\Release\ToolShed.dll
+C:\Users\ProphetBarnabas\source\repos\SETMAC\SETMAC\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\SETMAC\SETMAC\bin\x64\Release\ToolShed.pdb
+C:\Users\ProphetBarnabas\source\repos\SETMAC\SETMAC\obj\x64\Release\SETMAC.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\SETMAC\SETMAC\obj\x64\Release\SETMAC.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\SETMAC\SETMAC\obj\x64\Release\SETMAC.dll
+C:\Users\ProphetBarnabas\source\repos\SETMAC\SETMAC\obj\x64\Release\SETMAC.pdb

@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\HISTORY_GETENTRY\HISTORY_GETENTRY\bin\x64\Release\HISTORY_GETENTRY.dll
+C:\Users\ProphetBarnabas\source\repos\HISTORY_GETENTRY\HISTORY_GETENTRY\bin\x64\Release\HISTORY_GETENTRY.pdb
+C:\Users\ProphetBarnabas\source\repos\HISTORY_GETENTRY\HISTORY_GETENTRY\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\HISTORY_GETENTRY\HISTORY_GETENTRY\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\HISTORY_GETENTRY\HISTORY_GETENTRY\obj\x64\Release\HISTORY_GETENTRY.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\HISTORY_GETENTRY\HISTORY_GETENTRY\obj\x64\Release\HISTORY_GETENTRY.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\HISTORY_GETENTRY\HISTORY_GETENTRY\obj\x64\Release\HISTORY_GETENTRY.dll
+C:\Users\ProphetBarnabas\source\repos\HISTORY_GETENTRY\HISTORY_GETENTRY\obj\x64\Release\HISTORY_GETENTRY.pdb

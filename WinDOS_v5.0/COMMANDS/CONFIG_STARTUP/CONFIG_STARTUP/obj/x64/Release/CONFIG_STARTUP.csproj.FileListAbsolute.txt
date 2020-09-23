@@ -1,0 +1,8 @@
+C:\Users\ProphetBarnabas\source\repos\CONFIG_STARTUP\CONFIG_STARTUP\bin\x64\Release\CONFIG_STARTUP.dll
+C:\Users\ProphetBarnabas\source\repos\CONFIG_STARTUP\CONFIG_STARTUP\bin\x64\Release\CONFIG_STARTUP.pdb
+C:\Users\ProphetBarnabas\source\repos\CONFIG_STARTUP\CONFIG_STARTUP\bin\x64\Release\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CONFIG_STARTUP\CONFIG_STARTUP\bin\x64\Release\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\CONFIG_STARTUP\CONFIG_STARTUP\obj\x64\Release\CONFIG_STARTUP.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CONFIG_STARTUP\CONFIG_STARTUP\obj\x64\Release\CONFIG_STARTUP.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CONFIG_STARTUP\CONFIG_STARTUP\obj\x64\Release\CONFIG_STARTUP.dll
+C:\Users\ProphetBarnabas\source\repos\CONFIG_STARTUP\CONFIG_STARTUP\obj\x64\Release\CONFIG_STARTUP.pdb
