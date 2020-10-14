@@ -1,0 +1,11 @@
+C:\Users\ProphetBarnabas\source\repos\CommandTemplate\CommandTemplate\bin\Debug\CommandTemplate.dll
+C:\Users\ProphetBarnabas\source\repos\CommandTemplate\CommandTemplate\bin\Debug\CommandTemplate.pdb
+C:\Users\ProphetBarnabas\source\repos\CommandTemplate\CommandTemplate\bin\Debug\CLIShell.dll
+C:\Users\ProphetBarnabas\source\repos\CommandTemplate\CommandTemplate\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\ProphetBarnabas\source\repos\CommandTemplate\CommandTemplate\bin\Debug\CLIShell.pdb
+C:\Users\ProphetBarnabas\source\repos\CommandTemplate\CommandTemplate\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\ProphetBarnabas\source\repos\CommandTemplate\CommandTemplate\obj\Debug\CommandTemplate.csprojAssemblyReference.cache
+C:\Users\ProphetBarnabas\source\repos\CommandTemplate\CommandTemplate\obj\Debug\CommandTemplate.csproj.CoreCompileInputs.cache
+C:\Users\ProphetBarnabas\source\repos\CommandTemplate\CommandTemplate\obj\Debug\CommandTemplate.csproj.CopyComplete
+C:\Users\ProphetBarnabas\source\repos\CommandTemplate\CommandTemplate\obj\Debug\CommandTemplate.dll
+C:\Users\ProphetBarnabas\source\repos\CommandTemplate\CommandTemplate\obj\Debug\CommandTemplate.pdb
